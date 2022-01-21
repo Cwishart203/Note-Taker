@@ -10,7 +10,7 @@ app.use("/", htmlRoutes);
 app.use("/api", apiRoutes);
 
 app.listen(PORT, () =>
-    console.log("Sucess")
+    console.log("Success!")
 );
 
 
