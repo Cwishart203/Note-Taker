@@ -25,7 +25,7 @@
   Open in integrated terminal, then type npm start. Then open http://localhost:3001/ in your browser.
 
   ## Deployment
-  Deployed to Heroku at 
+  Deployed to Heroku at https://note-taker-cwish.herokuapp.com/
 
   ## Tests
   N/A
